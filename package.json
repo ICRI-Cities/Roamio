@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/StevenHouben/Roamio/issues"
   },
+  "engines": {
+    "node": "4.4.0"
+  },
   "homepage": "https://github.com/StevenHouben/Roamio"
 }
