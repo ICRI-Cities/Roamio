@@ -2,7 +2,7 @@
   "name": "Roamio",
   "version": "1.0.0",
   "description": "",
-  "main": "Server.js",
+  "main": "web.js",
   "dependencies": {
     "body-parser": "^1.15.0",
     "colors": "^1.1.2",

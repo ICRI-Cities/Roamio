@@ -10,7 +10,7 @@ var bodyParser= require('body-parser');
 var mongoose = require('mongoose');
 
 var helmet = require('helmet');
-var Keys = require('./privateKeys');
+var Keys = require('./PrivateKeys');
 var HttpMessages = require('./HttpMessages');
 var debug = require('./Debugger');
 
