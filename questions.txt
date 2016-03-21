@@ -1,0 +1,288 @@
+[
+	{
+		"question":"Would you visit the ArcelorMittal Orbit again?",
+		"answers":[
+			{
+				"answer":"Yes",
+				"response":"That's great, we can't wait to see you again!"
+			},
+			{
+				"answer":"No",
+				"response":"Thanks for visiting anyway!"
+			}
+		]
+	},
+	{
+		"question":"How many steps do you think the ArcelorMittal Orbit has?",
+		"answers":[
+			{
+				"answer":"255",
+				"response":"The correct answer is 455. Try to count them on the way down."
+			},
+			{
+				"answer":"455",
+				"response":"Correct! Try to count them on the way down."
+			}
+		]
+	},
+	{
+		"question":"How would you describe the people on the Orbit with you right now?",
+		"answers":[
+			{
+				"answer":"Loud",
+				"response":"Thanks!"
+			},
+			{
+				"answer":"Quiet",
+				"response":"Good to know!"
+			}
+		]
+	},
+	{
+		"question":"Approximately how far can you see from the ArcelorMittal Orbit?",
+		"answers":[
+			{
+				"answer":"10 miles",
+				"response":"You can actually see for 20 miles! Try to find at least 5 iconic buildings."
+			},
+			{
+				"answer":"20 miles",
+				"response":"Correct! On a clear day you can see for 20 miles from the ArcelorMittal Orbit. Try to find at least 5 iconic buildings."
+			}
+		]
+	},
+	{
+		"question":"Do you think the air is cleaner up here than at ground level?",
+		"answers":[
+			{
+				"answer":"Yes",
+				"response":"Have you seen the Physikit exhibit here today? It will show you how clean the air is at ground level."
+			},
+			{
+				"answer":"No",
+				"response":"Have you seen the Physikit exhibit here today? It will show you how clean the air is at ground level."
+			}
+		]
+	},
+	{
+		"question":"Which football team will make the Olympic Stadium their new home in 2016?",
+		"answers":[
+			{
+				"answer":"West Ham United",
+				"response":"Correct! West Ham United will start playing their Premierships at the Olympic Stadium from August 2016. See if you can see inside the stadium from this viewing deck."
+			},
+			{
+				"answer":"Arsenal FC",
+				"response":"The correct answer is West Ham United. They will start playing their Premierships at the Olympic Stadium from August 2016. See if you can see inside the stadium from this viewing deck."
+			}
+		]
+	},
+	{
+		"question":"How long do you think the new slide will be?",
+		"answers":[
+			{
+				"answer":"60 metres",
+				"response":"The correct answer is 180 metres. It will be the longest tunnel slide in the world."
+			},
+			{
+				"answer":"180 metres",
+				"response":"That's right! It will be the longest tunnel slide in the world."
+			}
+		]
+	},
+	{
+		"question":"How would you describe the people on the Orbit with you right now?",
+		"answers":[
+			{
+				"answer":"Cheerful",
+				"response":"Thanks!"
+			},
+			{
+				"answer":"Gloomy",
+				"response":"Good to know!"
+			}
+		]
+	},
+	{
+		"question":"Which of these is a sporting venue at Queen Elizabeth Olympic Park?",
+		"answers":[
+			{
+				"answer":"The Silversphere Arena",
+				"response":"The correct answer is the Copperbox Arena. This award winning arena is one of the many iconic buildings which can be seen from the ArcelorMittal Orbit."
+			},
+			{
+				"answer":"The Copperbox Arena",
+				"response":"Correct! The award winning Copperbox Arena is one of the many iconic buildings which can be seen from the ArcelorMittal Orbit."
+			}
+		]
+	},
+	{
+		"question":"Which of these Olympic athletes trains at the London Aquatics Centre?",
+		"answers":[
+			{
+				"answer":"Michael Phelps",
+				"response":"It's actually Tom Daley, the Olympic diver, who trains in the pool."
+			},
+			{
+				"answer":"Tom Daley",
+				"response":"That's right, Tom Daley the Olympic diver trains in the pool."
+			}
+		]
+	},
+	{
+		"question":"How many Gold medals did Great Britain win at London 2012?",
+		"answers":[
+			{
+				"answer":"29",
+				"response":"Correct! A record haul for Team GB with 29 Gold medals at the London 2012 Olympics and 34 Gold in the Paralympics."
+			},
+			{
+				"answer":"12",
+				"response":"Incorrect. It was actually a record haul for Team GB with 29 Gold medals at the London 2012 Olympics and 34 Gold in the Paralympics."
+			}
+		]
+	},
+	{
+		"question":"Where was the first ever Paralympics held?",
+		"answers":[
+			{
+				"answer":"Stoke Mandeville",
+				"response":"Correct! Stoke Mandeville. There is an orchard on the park to commemorate this."
+			},
+			{
+				"answer":"Milton Keynes",
+				"response":"The correct answer is Stoke Mandeville. There is an orchard on the park to commemorate this."
+			}
+		]
+	},
+	{
+		"question":"Do you think the ArcelorMittal Orbit is higher that 100 metres?",
+		"answers":[
+			{
+				"answer":"Yes",
+				"response":"Correct! Actually, the ArcelorMittal Orbit is 114 metres high."
+			},
+			{
+				"answer":"No",
+				"response":"Actually, the ArcelorMittal Orbit is 114 metres high."
+			}
+		]
+	},
+	{
+		"question":"True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"You are right!"
+			},
+			{
+				"answer":"False",
+				"response":"Actually, there are. Look out for them later."
+			}
+		]
+	},
+	{
+		"question":"True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"You are right!"
+			},
+			{
+				"answer":"False",
+				"response":"It's actually true."
+			}
+		]
+	},
+	{
+		"question":"True or False: There are 2km of waterways in the Park?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"Actually, there are 8km of waterways in the Park."
+			},
+			{
+				"answer":"False",
+				"response":"Correct! There are 8km of waterways in the Park."
+			}
+		]
+	},
+	{
+		"question":"True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"You are right!"
+			},
+			{
+				"answer":"False",
+				"response":"Incorrect, it actually does contain over 2000 handcrafted cubes."
+			}
+		]
+	},
+	{
+		"question":"How would you describe the people on the Orbit with you right now?",
+		"answers":[
+			{
+				"answer":"Young",
+				"response":"Thanks!"
+			},
+			{
+				"answer":"Old",
+				"response":"Good to know!"
+			}
+		]
+	},
+	{
+		"question":"How many people do you think are on the visitor platform of the Orbit with you right now?",
+		"answers":[
+			{
+				"answer":"Less than 15",
+				"response":"Thanks!"
+			},
+			{
+				"answer":"15 or more",
+				"response":"Good to know!"
+			}
+		]
+	},
+	{
+		"question":"True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"You are right! If you look down towards the ground in the direction of the London Aquatics Centre you will see them on the roof of the Cafe now."
+			},
+			{
+				"answer":"False",
+				"response":"Actually, there are! If you look down towards the ground in the direction of the London Aquatics Centre you will see them on the roof of the Cafe now."
+			}
+		]
+	},
+	{
+		"question":"True or False: Boats can travel along the Park waterways?",
+		"answers":[
+			{
+				"answer":"True",
+				"response":"You are right! You can take a boat tour through the Park if the weather is good. Over the Summer you can try out different activities too!"
+			},
+			{
+				"answer":"False",
+				"response":"Actually, they can! You can take a boat tour through the Park if the weather is good. Over the Summer you can try out different activities too!"
+			}
+		]
+	},
+	{
+		"question":"How would you describe the people on the Orbit with you right now?",
+		"answers":[
+			{
+				"answer":"Interested",
+				"response":"Thanks!"
+			},
+			{
+				"answer":"Bored",
+				"response":"Good to know!"
+			}
+		]
+	}
+]

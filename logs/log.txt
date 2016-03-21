@@ -1,0 +1,1741 @@
+18/2/2016,11:14:23,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:14:37,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,11:16:58,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,11:17:19,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,11:17:47,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,11:18:3,How long do you think the new slide will be?,180 metres
+18/2/2016,11:18:18,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,11:18:34,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,11:18:44,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,11:18:58,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,11:19:59,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,11:20:35,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,11:21:19,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,11:22:19,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,11:23:49,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,11:24:59,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,11:25:15,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,11:25:26,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,11:25:38,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,11:25:51,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,11:26:3,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,11:26:14,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,11:26:29,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:26:46,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,11:27:1,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,11:27:36,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,11:27:48,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,11:28:1,How long do you think the new slide will be?,180 metres
+18/2/2016,11:28:10,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,11:28:23,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,11:29:27,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,11:29:41,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,11:31:22,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,11:32:24,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,11:32:49,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,11:33:4,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,11:33:16,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,11:34:50,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,11:35:9,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,11:36:5,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,11:37:1,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,11:37:19,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,11:37:37,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,11:37:48,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,11:38:14,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:38:28,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,11:38:44,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,11:39:5,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,11:39:17,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,11:39:32,How long do you think the new slide will be?,180 metres
+18/2/2016,11:39:52,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,11:41:41,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,11:41:52,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,11:42:4,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,11:42:14,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,11:42:28,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,11:42:41,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,11:42:54,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,11:43:5,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,11:43:20,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,11:43:35,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,11:44:2,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,11:44:16,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,11:44:30,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,11:44:42,How would you describe the people on the Orbit with you right now?,Bored
+18/2/2016,11:44:52,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,11:45:17,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:45:35,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,11:45:49,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+18/2/2016,11:46:13,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,11:46:25,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,11:46:57,How long do you think the new slide will be?,180 metres
+18/2/2016,11:47:14,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,11:47:34,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,11:47:51,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,11:48:4,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,11:48:18,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,11:48:37,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,11:48:54,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,11:49:7,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,11:50:8,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,11:51:37,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,11:51:52,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,11:52:6,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,11:52:27,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,11:52:39,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,11:52:50,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,11:53:6,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,11:53:21,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:53:32,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,11:53:54,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,11:54:11,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,11:54:31,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,11:54:54,How long do you think the new slide will be?,180 metres
+18/2/2016,11:55:10,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,11:55:25,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,11:55:43,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,11:55:56,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,11:56:9,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,11:56:29,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,11:56:45,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,11:57:4,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,11:57:17,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,11:57:34,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,11:57:49,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,11:58:5,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,11:58:21,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,11:58:34,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,11:58:53,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,11:59:4,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,11:59:17,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,11:59:47,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,12:0:2,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:0:20,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,12:0:38,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,12:0:59,How long do you think the new slide will be?,60 metres
+18/2/2016,12:1:28,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,12:1:57,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:2:27,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:2:49,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,12:3:37,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:4:3,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:4:39,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,12:4:53,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,12:5:32,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,12:5:48,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,12:6:3,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,12:7:50,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:8:7,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:8:20,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:8:57,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,12:9:16,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,12:9:33,How long do you think the new slide will be?,180 metres
+18/2/2016,12:9:45,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,12:10:7,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:10:21,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:10:39,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,12:10:53,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,12:11:9,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:11:32,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,12:11:47,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,12:12:1,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,12:12:34,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,12:12:56,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,12:13:18,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:13:43,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,12:13:57,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:14:12,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,12:14:23,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,12:14:36,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:14:47,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:15:5,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:15:17,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:15:45,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,12:15:57,How long do you think the new slide will be?,180 metres
+18/2/2016,12:16:7,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,12:16:34,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:16:47,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:16:57,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,12:17:5,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:17:19,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+18/2/2016,12:17:31,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,12:17:50,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,12:18:3,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,12:18:14,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,12:18:31,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,12:18:45,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:18:58,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+18/2/2016,12:20:11,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:20:29,How would you describe the people on the Orbit with you right now?,Bored
+18/2/2016,12:20:40,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,12:20:52,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:21:5,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:21:21,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+18/2/2016,12:21:39,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:21:51,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,12:24:50,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:27:49,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:28:12,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:28:32,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:29:12,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,12:29:38,How long do you think the new slide will be?,180 metres
+18/2/2016,12:29:53,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,12:30:15,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,12:30:28,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:30:42,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,12:30:54,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:31:6,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:31:45,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,12:32:10,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,12:32:33,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,12:33:11,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,12:33:30,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,12:33:51,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:34:7,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,12:34:25,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:34:44,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,12:34:59,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,12:35:17,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:37:52,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:38:10,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:38:29,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:38:58,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,12:39:53,How long do you think the new slide will be?,180 metres
+18/2/2016,12:40:11,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,12:40:29,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:40:43,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:41:0,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,12:41:22,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:41:32,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:41:46,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,12:42:1,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,12:42:13,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,12:42:31,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,12:42:51,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,12:43:6,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:43:21,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,12:43:33,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:43:48,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,12:44:7,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,12:44:20,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:44:42,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,12:44:53,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:45:5,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:45:28,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,12:45:39,How long do you think the new slide will be?,60 metres
+18/2/2016,12:45:50,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,12:46:3,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:46:13,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:48:56,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,12:49:6,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:50:9,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:50:29,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,12:50:50,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,12:51:4,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,12:52:9,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,12:52:28,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,12:53:8,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:53:18,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,12:53:28,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:53:38,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,12:53:48,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,12:53:57,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,12:54:8,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,12:54:17,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,12:54:29,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,12:54:39,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,12:54:50,How long do you think the new slide will be?,180 metres
+18/2/2016,12:55:1,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,12:55:10,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,12:55:20,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,12:55:29,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,12:55:40,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,12:55:49,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,12:56:1,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,12:56:14,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,12:56:24,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,12:57:18,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,12:57:32,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,12:57:45,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,12:57:58,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,12:59:16,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,12:59:26,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,12:59:39,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,13:2:0,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,13:2:15,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,13:4:3,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,13:4:17,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,13:4:33,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,13:5:33,How long do you think the new slide will be?,60 metres
+18/2/2016,13:5:47,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,13:6:9,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,13:6:23,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,13:6:41,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,13:7:22,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,13:8:28,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,13:9:10,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,13:9:30,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,13:9:42,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,13:9:50,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,13:10:18,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,13:10:42,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,13:11:8,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+18/2/2016,13:11:19,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,13:12:13,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,13:12:28,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,13:12:42,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,13:12:58,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,13:13:10,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,13:13:49,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,13:13:59,How long do you think the new slide will be?,180 metres
+18/2/2016,13:17:47,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,13:18:7,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,13:18:20,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,13:18:31,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,13:18:41,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,13:19:4,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+18/2/2016,13:19:45,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,13:22:14,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,13:22:35,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,13:23:2,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,13:23:30,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,13:25:18,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,13:25:31,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,13:25:42,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,13:27:42,How would you describe the people on the Orbit with you right now?,Bored
+18/2/2016,13:27:58,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,13:28:29,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,13:28:52,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,13:29:11,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,13:29:29,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,13:29:52,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,13:30:7,How long do you think the new slide will be?,60 metres
+18/2/2016,13:30:25,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,13:30:42,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,13:31:6,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,13:31:21,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,13:31:46,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,13:32:0,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,13:32:39,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,13:32:54,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,13:33:26,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,13:33:39,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,13:34:5,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,13:34:34,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,13:34:58,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,13:35:15,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,13:35:32,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,13:35:44,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,13:35:56,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,13:36:17,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,13:36:35,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,13:38:2,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,13:38:36,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,13:38:50,How long do you think the new slide will be?,60 metres
+18/2/2016,13:39:6,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,13:39:16,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,13:39:30,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,13:39:43,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,13:40:31,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,13:41:8,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,13:41:27,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,13:41:40,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,13:42:10,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,13:43:23,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,13:49:13,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,13:50:0,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,13:50:9,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+18/2/2016,13:51:34,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,13:52:5,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,13:52:25,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,13:52:41,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,13:53:3,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,13:53:17,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,13:53:30,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,13:53:45,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,13:53:59,How long do you think the new slide will be?,180 metres
+18/2/2016,13:54:14,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,13:54:28,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,13:54:47,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,13:54:58,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,13:56:56,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,13:57:11,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,13:57:28,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,13:57:40,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,13:57:53,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,13:58:17,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,14:2:27,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,14:2:58,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:3:22,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:3:36,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:3:51,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,14:4:4,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,14:4:24,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:4:42,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:4:57,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:5:18,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,14:5:31,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,14:5:48,How long do you think the new slide will be?,180 metres
+18/2/2016,14:6:3,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,14:6:10,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,14:6:22,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,14:6:33,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,14:6:45,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,14:8:36,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+18/2/2016,14:8:50,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,14:9:1,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,14:9:11,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,14:9:27,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,14:10:55,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,14:11:10,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:11:24,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:11:36,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:11:55,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,14:12:7,Would you visit the ArcelorMittal Orbit again?,No
+18/2/2016,14:12:17,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:12:30,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:12:42,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:12:52,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,14:13:3,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,14:13:14,How long do you think the new slide will be?,180 metres
+18/2/2016,14:13:26,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,14:13:52,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,14:14:5,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,14:14:15,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,14:14:30,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,14:15:43,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,14:16:56,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,14:21:32,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,14:21:43,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,14:21:57,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,14:22:36,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,14:22:51,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:23:39,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:23:54,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:24:9,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,14:24:20,Would you visit the ArcelorMittal Orbit again?,No
+18/2/2016,14:24:42,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:24:54,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:25:12,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:25:27,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,14:25:40,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,14:25:51,How long do you think the new slide will be?,180 metres
+18/2/2016,14:26:4,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,14:26:22,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,14:26:34,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,14:26:44,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,14:26:56,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,14:27:7,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,14:27:21,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,14:27:35,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,14:27:46,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,14:27:55,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,14:28:23,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,14:28:38,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:28:57,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:29:10,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:29:23,How would you describe the people on the Orbit with you right now?,Bored
+18/2/2016,14:29:42,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,14:29:53,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:30:14,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:30:30,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:30:46,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,14:31:0,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,14:31:11,How long do you think the new slide will be?,180 metres
+18/2/2016,14:31:26,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,14:31:43,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,14:32:4,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,14:32:28,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,14:32:43,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,14:33:20,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,14:33:34,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,14:33:46,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,14:34:1,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,14:34:19,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,14:34:27,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,14:34:57,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:35:6,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:35:44,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:36:36,How would you describe the people on the Orbit with you right now?,Bored
+18/2/2016,14:37:8,Would you visit the ArcelorMittal Orbit again?,No
+18/2/2016,14:37:59,How many steps do you think the ArcelorMittal Orbit has?,255
+18/2/2016,14:38:12,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:38:29,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+18/2/2016,14:39:10,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,14:40:34,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,14:40:54,How long do you think the new slide will be?,180 metres
+18/2/2016,14:41:23,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,14:41:56,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,14:42:12,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,14:42:34,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,14:44:31,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,14:44:44,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,14:44:59,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,14:45:28,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,14:45:39,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,14:45:53,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,14:46:11,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,14:46:49,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,14:47:3,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:47:37,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,14:47:50,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,14:48:3,Would you visit the ArcelorMittal Orbit again?,No
+18/2/2016,14:48:20,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:48:33,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:49:1,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:49:17,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,14:49:31,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,14:49:47,How long do you think the new slide will be?,180 metres
+18/2/2016,14:50:0,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,14:50:20,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,14:50:31,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,14:50:46,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,14:51:1,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,14:51:45,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,14:52:19,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,14:53:25,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,14:53:44,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,14:54:20,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,14:54:37,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,14:54:50,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,14:55:19,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,14:55:36,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,14:55:55,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,14:56:38,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,14:56:54,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,14:57:13,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,14:57:26,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,14:57:44,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,14:58:3,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,14:58:16,How long do you think the new slide will be?,180 metres
+18/2/2016,14:58:32,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,14:58:49,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,14:59:2,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,14:59:17,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,14:59:32,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,14:59:45,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:0:8,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:0:20,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:0:37,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,15:0:55,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:1:12,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:1:33,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:1:48,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:2:1,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,15:2:14,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:2:27,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:3:33,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:4:21,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:4:38,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:5:10,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,15:5:28,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,15:5:40,How long do you think the new slide will be?,60 metres
+18/2/2016,15:5:59,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,15:6:15,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,15:7:38,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:7:51,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:8:5,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,15:8:16,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:8:46,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:9:5,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:9:18,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:9:33,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,15:9:49,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:10:1,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:10:13,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:10:24,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:10:38,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:11:25,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:11:37,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:11:53,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:12:6,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:12:24,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,15:12:38,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,15:12:51,How long do you think the new slide will be?,180 metres
+18/2/2016,15:13:5,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,15:13:18,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,15:13:45,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:13:58,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:14:14,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,15:14:29,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:14:47,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:14:58,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:15:8,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,15:15:20,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:15:31,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:15:45,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:15:57,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:16:11,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:16:20,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:16:30,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:16:40,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:16:56,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:17:5,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:17:24,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,15:17:41,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,15:17:56,How long do you think the new slide will be?,180 metres
+18/2/2016,15:18:5,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,15:18:15,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,15:19:11,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:20:39,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:20:55,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,15:21:6,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:21:21,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:21:35,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:21:52,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:22:7,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:22:15,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,15:22:28,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:22:42,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:23:11,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:23:24,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:23:52,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:24:6,How many steps do you think the ArcelorMittal Orbit has?,255
+18/2/2016,15:24:27,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:24:39,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:24:54,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,15:25:9,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,15:25:54,How long do you think the new slide will be?,180 metres
+18/2/2016,15:26:5,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,15:26:18,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,15:26:39,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:27:38,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,15:27:52,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,15:28:5,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:28:18,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+18/2/2016,15:28:31,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:28:46,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:29:43,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:29:57,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:30:15,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:30:31,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:30:54,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:31:8,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:31:20,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:31:31,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:31:42,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:33:9,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:33:47,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,15:34:10,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,15:34:26,How long do you think the new slide will be?,180 metres
+18/2/2016,15:34:51,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,15:35:6,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,15:35:18,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:35:34,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:35:46,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,15:36:1,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:36:38,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:37:3,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:37:23,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:37:37,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:37:56,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:38:9,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,15:38:21,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:38:30,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:38:41,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:38:51,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:39:4,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:39:15,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:39:29,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:39:42,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,15:39:54,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,15:40:6,How long do you think the new slide will be?,180 metres
+18/2/2016,15:40:17,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,15:40:30,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,15:40:42,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:40:57,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:41:10,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,15:41:21,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:41:39,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:41:51,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:42:4,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:42:23,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+18/2/2016,15:42:41,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:43:7,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:43:23,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,15:43:38,True or False: Boats can travel along the Park waterways?,False
+18/2/2016,15:43:53,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:44:6,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:44:18,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:44:31,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,15:44:43,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:44:57,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,15:45:11,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,15:45:27,How long do you think the new slide will be?,60 metres
+18/2/2016,15:45:44,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,15:45:59,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,15:46:12,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:46:22,How many Gold medals did Great Britain win at London 2012?,29
+18/2/2016,15:46:34,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,15:46:46,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:47:10,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:47:23,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,15:47:40,True or False: There are 2km of waterways in the Park?,False
+18/2/2016,15:47:58,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:48:22,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,15:48:44,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,15:48:59,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+18/2/2016,15:49:9,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:49:19,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:49:30,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:49:41,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,15:49:53,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,15:50:4,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,15:50:15,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,15:50:36,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+18/2/2016,15:51:7,How long do you think the new slide will be?,60 metres
+18/2/2016,15:51:26,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,15:52:8,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,15:54:45,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,15:55:44,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,15:56:1,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,15:56:14,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,15:56:31,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,15:56:48,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+18/2/2016,15:57:7,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,15:57:30,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,15:57:46,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,15:58:4,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,15:58:34,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+18/2/2016,15:59:25,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,15:59:38,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,15:59:47,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,15:59:57,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,16:0:10,How would you describe the people on the Orbit with you right now?,Quiet
+18/2/2016,16:0:32,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,16:0:45,Do you think the air is cleaner up here than at ground level?,Yes
+18/2/2016,16:0:57,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,16:1:7,How long do you think the new slide will be?,180 metres
+18/2/2016,16:1:24,How would you describe the people on the Orbit with you right now?,Cheerful
+18/2/2016,16:1:43,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,16:1:55,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,16:4:21,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,16:4:34,Where was the first ever Paralympics held?,Stoke Mandeville
+18/2/2016,16:4:49,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,16:7:50,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,16:9:4,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,16:18:57,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,16:19:57,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,16:20:40,How would you describe the people on the Orbit with you right now?,Old
+18/2/2016,16:21:32,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+18/2/2016,16:21:43,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,16:21:58,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,16:22:23,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,16:22:37,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,16:22:52,How many steps do you think the ArcelorMittal Orbit has?,455
+18/2/2016,16:23:4,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,16:23:15,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,16:23:24,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,16:24:26,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,16:24:39,How long do you think the new slide will be?,180 metres
+18/2/2016,16:24:53,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,16:26:45,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+18/2/2016,16:26:58,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+18/2/2016,16:28:57,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,16:30:1,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,16:30:12,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+18/2/2016,16:30:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+18/2/2016,16:34:24,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+18/2/2016,16:34:38,True or False: There are 2km of waterways in the Park?,True
+18/2/2016,16:35:11,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+18/2/2016,16:35:43,How would you describe the people on the Orbit with you right now?,Young
+18/2/2016,16:38:42,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+18/2/2016,16:39:18,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+18/2/2016,16:39:29,True or False: Boats can travel along the Park waterways?,True
+18/2/2016,16:39:43,How would you describe the people on the Orbit with you right now?,Interested
+18/2/2016,16:39:54,Would you visit the ArcelorMittal Orbit again?,Yes
+18/2/2016,16:40:13,How many steps do you think the ArcelorMittal Orbit has?,255
+18/2/2016,16:40:25,How would you describe the people on the Orbit with you right now?,Loud
+18/2/2016,16:40:35,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+18/2/2016,16:40:49,Do you think the air is cleaner up here than at ground level?,No
+18/2/2016,16:41:9,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+18/2/2016,16:47:55,How long do you think the new slide will be?,180 metres
+18/2/2016,16:48:5,How would you describe the people on the Orbit with you right now?,Gloomy
+18/2/2016,16:48:13,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+18/2/2016,16:48:23,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+18/2/2016,16:48:32,How many Gold medals did Great Britain win at London 2012?,12
+18/2/2016,16:48:41,Where was the first ever Paralympics held?,Milton Keynes
+18/2/2016,16:49:10,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,10:56:26,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,10:56:44,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,10:56:57,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,10:57:25,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,10:57:37,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,10:57:48,How long do you think the new slide will be?,60 metres
+19/2/2016,10:58:0,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,10:58:11,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,10:58:27,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,10:58:40,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,10:58:54,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,10:59:7,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:0:47,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,11:1:6,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,11:1:17,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,11:2:13,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,11:2:30,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,11:2:46,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:3:10,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:3:23,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:3:46,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:4:28,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:4:41,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:4:55,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,11:5:54,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,11:6:4,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,11:7:0,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:7:12,How long do you think the new slide will be?,180 metres
+19/2/2016,11:7:27,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,11:7:47,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,11:8:13,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:8:27,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,11:8:41,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:8:53,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:9:8,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,11:9:25,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,11:9:35,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,11:10:21,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,11:10:44,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,11:10:58,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:11:13,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:11:26,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,11:11:38,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:11:50,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:12:6,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:12:20,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,11:12:32,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:12:44,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:12:56,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:13:8,How long do you think the new slide will be?,180 metres
+19/2/2016,11:13:19,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:13:53,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,11:14:16,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:14:27,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,11:14:42,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:14:53,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:15:6,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,11:15:18,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,11:15:30,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,11:15:43,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,11:15:54,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,11:16:10,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,11:16:23,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:16:36,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:17:7,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:17:17,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:17:28,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:17:40,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,11:17:54,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:18:4,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:18:13,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:18:23,How long do you think the new slide will be?,180 metres
+19/2/2016,11:18:33,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:18:46,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,11:18:56,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:19:4,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,11:19:19,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:19:31,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:19:42,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,11:19:57,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,11:20:10,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,11:20:22,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,11:21:15,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,11:21:48,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:22:4,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:22:18,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:22:35,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:22:50,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:23:4,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:23:21,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,11:23:37,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:24:49,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:25:2,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:25:14,How long do you think the new slide will be?,60 metres
+19/2/2016,11:25:28,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:25:43,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,11:25:59,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:26:14,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,11:26:26,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:26:41,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,11:27:33,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,11:27:58,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,11:28:14,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,11:28:28,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,11:28:42,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,11:28:55,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:29:8,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:29:17,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:30:41,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:31:19,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:31:36,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:31:50,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,11:32:0,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:32:15,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:32:29,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:32:44,How long do you think the new slide will be?,180 metres
+19/2/2016,11:33:1,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:33:17,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,11:33:30,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:33:44,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,11:33:54,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:34:5,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:34:18,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,11:34:36,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,11:34:49,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,11:35:2,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,11:35:22,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,11:37:5,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,11:37:25,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:37:43,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:38:6,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,11:38:16,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,11:38:36,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:38:49,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,11:39:1,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,11:39:19,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:39:45,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:40:3,How long do you think the new slide will be?,180 metres
+19/2/2016,11:40:17,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:40:34,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,11:40:58,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:41:19,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,11:41:35,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,11:41:53,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:42:12,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,11:43:3,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,11:43:24,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,11:43:46,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,11:44:10,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,11:44:28,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:44:47,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:44:59,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:45:10,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:45:29,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,11:48:28,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:48:42,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,11:49:17,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:50:25,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:51:46,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,11:51:59,How long do you think the new slide will be?,180 metres
+19/2/2016,11:52:11,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:52:23,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,11:52:32,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,11:52:52,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,11:53:4,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,11:53:24,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,11:53:58,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,11:54:15,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,11:54:32,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,11:54:57,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,11:55:18,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,11:55:37,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,11:56:2,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,11:56:20,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,11:56:46,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,11:57:15,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,11:57:29,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,11:57:49,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,11:58:2,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,11:58:25,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,11:58:57,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,11:59:13,How long do you think the new slide will be?,180 metres
+19/2/2016,11:59:34,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,11:59:52,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,12:0:2,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:0:22,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,12:0:36,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:1:5,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:1:28,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,12:1:51,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:2:3,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:2:18,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,12:2:31,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:2:51,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:3:5,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:3:20,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:3:32,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,12:3:45,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,12:3:57,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:4:8,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,12:4:19,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,12:4:34,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,12:4:48,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,12:5:3,How long do you think the new slide will be?,60 metres
+19/2/2016,12:5:23,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,12:5:38,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,12:5:53,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:6:8,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:6:21,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:7:7,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:7:21,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,12:7:44,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,12:8:1,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:8:15,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,12:8:29,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:8:45,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:8:59,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:9:6,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:9:41,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,12:9:54,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,12:10:12,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:11:6,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,12:13:29,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:13:45,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,12:14:0,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:14:11,How long do you think the new slide will be?,180 metres
+19/2/2016,12:14:24,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,12:14:36,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,12:14:48,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:15:50,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,12:16:14,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:16:52,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:17:12,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:17:22,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:17:31,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,12:17:55,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,12:18:10,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:18:25,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:18:51,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+19/2/2016,12:19:3,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:19:38,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,12:19:55,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,12:20:11,How many steps do you think the ArcelorMittal Orbit has?,255
+19/2/2016,12:20:24,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:20:40,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:20:53,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,12:21:6,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:21:21,How long do you think the new slide will be?,180 metres
+19/2/2016,12:21:41,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,12:21:56,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,12:22:9,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:22:27,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:22:40,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:22:52,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,12:23:16,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:23:33,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:23:45,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:23:53,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,12:26:21,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:26:48,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:27:2,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:27:14,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:27:45,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,12:28:4,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,12:28:15,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:28:29,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:28:43,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:29:6,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,12:29:16,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:29:30,How long do you think the new slide will be?,60 metres
+19/2/2016,12:29:44,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,12:30:2,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,12:30:16,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:30:35,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:30:49,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:31:3,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:31:25,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:31:41,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,12:31:57,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:32:15,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,12:32:37,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:32:55,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:33:12,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:33:23,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:33:40,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,12:33:53,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,12:34:2,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:34:14,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:34:30,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:35:34,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,12:35:54,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,12:36:12,How long do you think the new slide will be?,180 metres
+19/2/2016,12:36:30,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,12:36:49,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,12:37:34,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:37:47,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:38:0,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:38:11,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:38:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,12:38:46,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:38:59,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:39:13,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,12:39:26,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,12:39:42,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,12:41:17,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:41:34,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:41:51,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,12:42:4,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,12:42:30,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:42:46,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:42:59,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:43:39,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,12:43:55,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:44:17,How long do you think the new slide will be?,180 metres
+19/2/2016,12:44:32,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,12:44:49,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,12:45:24,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:45:37,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:45:48,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,12:46:1,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:46:22,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:46:42,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:46:57,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:47:14,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,12:47:30,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,12:47:48,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:48:6,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:48:25,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,12:48:39,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,12:48:50,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,12:49:3,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,12:49:20,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:49:34,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:49:50,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,12:49:57,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:50:11,How long do you think the new slide will be?,60 metres
+19/2/2016,12:50:24,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,12:50:37,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,12:50:48,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:50:59,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:51:9,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,12:51:46,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:52:2,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:52:24,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:52:34,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:52:47,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,12:52:55,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,12:53:5,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,12:53:17,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,12:53:29,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,12:53:54,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,12:54:10,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,12:54:25,How many steps do you think the ArcelorMittal Orbit has?,255
+19/2/2016,12:54:43,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,12:54:56,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,12:55:9,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,12:55:23,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,12:55:36,How long do you think the new slide will be?,180 metres
+19/2/2016,12:55:59,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,12:56:13,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,12:56:31,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,12:56:50,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,12:57:8,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,12:57:24,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,12:57:47,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,12:58:3,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,12:58:17,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,12:58:40,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,12:58:59,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,12:59:6,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,12:59:22,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+19/2/2016,12:59:38,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,13:0:4,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:0:15,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:0:26,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:0:41,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,13:0:52,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:1:3,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:1:14,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:1:24,How long do you think the new slide will be?,180 metres
+19/2/2016,13:1:35,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:1:50,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,13:2:14,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:2:31,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,13:2:45,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:2:59,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:3:17,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,13:3:32,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:3:45,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,13:4:1,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:4:27,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,13:4:50,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:5:8,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:5:24,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,13:5:44,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:5:57,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:6:14,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:6:52,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,13:7:8,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:7:24,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:7:39,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:7:55,How long do you think the new slide will be?,180 metres
+19/2/2016,13:8:12,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,13:8:31,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,13:10:12,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:10:23,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,13:10:35,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,13:10:45,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:11:0,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,13:11:12,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:11:23,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,13:11:34,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:11:45,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,13:11:58,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:12:10,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:12:23,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,13:12:36,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:12:49,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:13:2,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:13:16,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,13:13:28,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:13:43,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:14:7,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:14:19,How long do you think the new slide will be?,180 metres
+19/2/2016,13:14:35,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:14:52,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,13:15:10,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:15:23,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,13:15:46,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:15:58,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:16:13,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,13:16:26,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:16:38,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,13:17:55,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:18:13,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,13:18:38,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:19:10,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:19:29,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,13:19:55,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:20:10,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:20:27,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:20:51,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,13:21:33,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,13:21:53,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:22:15,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:22:39,How long do you think the new slide will be?,180 metres
+19/2/2016,13:23:10,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:23:53,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,13:24:12,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:24:28,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,13:24:40,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:25:44,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:26:10,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,13:26:28,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:26:43,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,13:27:5,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:28:19,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,13:28:34,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:28:48,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:29:4,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,13:29:17,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:31:26,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,13:31:38,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:31:53,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,13:32:22,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,13:32:43,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:33:8,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:33:27,How long do you think the new slide will be?,180 metres
+19/2/2016,13:33:46,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:34:8,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,13:34:26,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:34:42,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,13:35:3,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:35:22,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:35:48,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,13:36:15,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:36:26,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,13:36:41,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:36:57,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,13:37:4,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:37:24,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:37:45,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,13:37:53,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,13:38:8,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,13:38:24,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:38:50,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,13:39:4,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:39:20,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:39:38,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:39:58,How long do you think the new slide will be?,180 metres
+19/2/2016,13:40:15,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:40:30,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,13:40:46,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:41:1,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,13:41:16,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:41:31,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:42:25,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,13:46:17,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:46:30,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,13:46:45,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:47:1,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,13:47:29,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,13:47:43,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:47:54,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,13:48:8,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:48:27,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:48:44,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:48:58,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,13:49:13,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:49:28,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:49:41,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:50:59,How long do you think the new slide will be?,180 metres
+19/2/2016,13:51:14,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,13:51:26,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,13:52:8,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,13:52:17,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,13:52:27,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,13:53:12,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,13:53:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,13:53:45,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,13:53:56,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,13:55:35,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,13:55:59,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,13:56:15,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,13:56:29,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,13:56:50,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,13:57:6,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,13:57:22,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,13:57:38,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,13:57:50,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,13:58:9,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,13:58:26,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,13:58:39,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,13:58:52,How long do you think the new slide will be?,60 metres
+19/2/2016,13:59:42,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,14:0:1,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:0:22,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:0:36,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:0:59,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,14:1:35,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:1:47,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:2:0,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:2:11,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,14:2:23,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,14:3:35,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,14:3:50,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:4:3,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:4:17,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,14:4:35,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,14:4:50,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,14:5:5,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:5:22,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,14:5:37,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,14:5:56,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:6:7,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,14:6:22,How long do you think the new slide will be?,60 metres
+19/2/2016,14:6:37,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,14:6:59,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:7:9,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:7:22,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:7:35,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,14:8:7,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:8:23,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:8:46,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:9:0,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,14:9:17,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,14:9:26,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,14:9:48,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:9:58,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:10:9,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:10:20,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,14:10:32,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,14:10:40,How many steps do you think the ArcelorMittal Orbit has?,255
+19/2/2016,14:10:50,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,14:11:9,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,14:11:22,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:11:49,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,14:12:13,How long do you think the new slide will be?,60 metres
+19/2/2016,14:12:27,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,14:12:41,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,14:12:55,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:13:7,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:13:22,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,14:13:38,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:13:57,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:14:33,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:14:49,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,14:15:15,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,14:15:46,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,14:16:6,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,14:16:25,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:16:44,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:17:3,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,14:17:19,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,14:17:37,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:18:2,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,14:18:20,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,14:18:43,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:19:1,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,14:21:24,How long do you think the new slide will be?,180 metres
+19/2/2016,14:21:40,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,14:22:0,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:22:11,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:22:37,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:22:53,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,14:23:10,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,14:23:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:23:40,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:24:8,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,14:24:21,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,14:24:37,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,14:24:55,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:25:15,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:25:37,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,14:25:49,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,14:26:0,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,14:26:19,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:26:29,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,14:26:40,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,14:26:52,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:27:3,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,14:27:28,How long do you think the new slide will be?,180 metres
+19/2/2016,14:30:59,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,14:31:15,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:31:26,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:31:39,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,14:31:56,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,14:32:11,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:32:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:35:10,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:35:59,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,14:36:10,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,14:36:22,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,14:40:54,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:41:18,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:41:30,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:41:42,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,14:41:54,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,14:42:7,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:42:55,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,14:43:19,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,14:43:32,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:43:45,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,14:43:57,How long do you think the new slide will be?,180 metres
+19/2/2016,14:44:20,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,14:44:41,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:44:57,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:45:11,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,14:45:24,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,14:45:36,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,14:45:45,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,14:46:8,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:46:34,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,14:47:11,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,14:47:41,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,14:48:2,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:48:27,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:48:37,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:48:50,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,14:49:26,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,14:49:44,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:50:2,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,14:50:17,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,14:50:36,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,14:50:52,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,14:51:5,How long do you think the new slide will be?,180 metres
+19/2/2016,14:51:24,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,14:51:38,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,14:51:51,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:52:4,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:52:17,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,14:52:25,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:52:41,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:52:53,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:53:9,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,14:53:17,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,14:53:31,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,14:53:50,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:54:2,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:54:18,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:54:32,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,14:54:43,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,14:54:55,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,14:55:13,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,14:55:23,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,14:55:33,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,14:55:50,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,14:56:4,How long do you think the new slide will be?,180 metres
+19/2/2016,14:56:16,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,14:56:29,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,14:56:42,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,14:56:50,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,14:57:0,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,14:57:13,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,14:57:25,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,14:57:34,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,14:57:43,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,14:57:57,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,14:58:17,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,14:58:30,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,14:58:41,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,14:58:53,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,14:59:8,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,14:59:22,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,15:0:36,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:1:1,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,15:1:29,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:1:56,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,15:2:24,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:2:42,How long do you think the new slide will be?,180 metres
+19/2/2016,15:3:14,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:3:35,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:3:53,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:4:14,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,15:4:30,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,15:4:43,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:5:2,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,False
+19/2/2016,15:5:33,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:5:51,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,15:6:5,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:6:22,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:6:38,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:6:59,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:7:13,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:7:27,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:7:41,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:7:57,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:8:15,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:8:33,Approximately how far can you see from the ArcelorMittal Orbit?,10 miles
+19/2/2016,15:8:46,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:9:2,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:9:15,How long do you think the new slide will be?,60 metres
+19/2/2016,15:9:29,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:9:50,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,15:10:3,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:10:14,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,15:10:43,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:11:3,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:11:16,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:11:28,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:12:52,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:13:5,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:13:22,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,15:13:40,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,15:13:53,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+19/2/2016,15:14:31,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:14:57,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:15:12,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:15:27,How many steps do you think the ArcelorMittal Orbit has?,255
+19/2/2016,15:15:41,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,15:15:59,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:16:23,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:16:54,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,15:17:13,How long do you think the new slide will be?,180 metres
+19/2/2016,15:17:40,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,15:18:6,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,15:18:34,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:18:51,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,15:19:21,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:19:35,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:20:2,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:20:35,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,15:20:55,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:21:50,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:22:9,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:22:25,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:22:40,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:22:51,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:23:16,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:23:40,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:23:55,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:24:10,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:24:24,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:24:41,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:25:10,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:25:21,How long do you think the new slide will be?,180 metres
+19/2/2016,15:25:34,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:25:53,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:26:26,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:26:47,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,15:27:2,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,15:27:16,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:27:47,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:28:2,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,15:28:15,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:28:29,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:28:45,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:29:3,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:29:15,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:29:30,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,15:29:38,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:30:1,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:30:14,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:30:26,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:30:40,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:30:52,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:31:4,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:31:18,How long do you think the new slide will be?,60 metres
+19/2/2016,15:31:29,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:31:42,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:31:53,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:32:5,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,15:32:17,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:32:28,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:32:40,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:32:58,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:33:11,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,15:33:24,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:33:46,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,15:33:58,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,15:34:15,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,False
+19/2/2016,15:34:26,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:34:38,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,15:34:47,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,15:34:59,How many steps do you think the ArcelorMittal Orbit has?,255
+19/2/2016,15:35:13,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,15:35:22,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:35:36,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:35:46,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:36:4,How long do you think the new slide will be?,60 metres
+19/2/2016,15:36:21,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,15:36:35,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:36:50,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:37:0,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,15:37:10,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:37:21,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,15:37:29,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:37:38,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:37:48,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:38:43,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,15:39:4,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:39:25,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:39:46,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:40:4,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:40:22,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:41:31,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:41:44,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:41:59,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:42:10,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:42:24,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:42:35,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:42:46,How long do you think the new slide will be?,180 metres
+19/2/2016,15:42:57,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:43:11,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:43:22,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:43:33,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,15:43:46,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:43:57,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:44:10,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:44:22,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:44:49,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:45:10,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,15:45:42,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:48:14,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:48:29,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:48:44,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,15:48:55,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:49:7,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:50:13,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:50:27,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:50:38,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:50:49,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,15:50:59,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:51:10,How long do you think the new slide will be?,60 metres
+19/2/2016,15:51:22,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:51:33,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,15:51:43,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,15:51:54,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,15:52:5,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,15:52:14,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,15:52:28,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,15:52:40,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,15:52:49,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,15:53:1,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,15:53:11,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,15:53:20,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,15:53:29,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,15:53:38,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,15:53:49,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,15:53:59,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,15:54:9,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,15:56:54,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,15:57:14,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,15:57:37,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,15:57:46,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,15:58:55,How long do you think the new slide will be?,180 metres
+19/2/2016,15:59:9,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,15:59:22,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,16:1:14,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,16:1:55,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,16:2:6,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,16:2:18,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,16:2:28,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,16:2:41,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,16:2:53,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,16:6:35,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,16:6:50,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,16:7:2,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,16:7:17,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,16:7:29,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,16:7:40,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,16:7:49,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,16:7:59,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,16:8:10,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,16:8:20,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,16:8:31,Do you think the air is cleaner up here than at ground level?,No
+19/2/2016,16:8:41,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,16:8:52,How long do you think the new slide will be?,180 metres
+19/2/2016,16:9:2,How would you describe the people on the Orbit with you right now?,Gloomy
+19/2/2016,16:9:14,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,16:10:4,Which of these Olympic athletes trains at the London Aquatics Centre?,Michael Phelps
+19/2/2016,16:10:21,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,16:11:21,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,16:11:40,Do you think the ArcelorMittal Orbit is higher that 100 metres?,No
+19/2/2016,16:11:52,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,16:12:11,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,16:12:22,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,16:12:34,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,16:12:41,How would you describe the people on the Orbit with you right now?,Old
+19/2/2016,16:12:50,How many people do you think are on the visitor platform of the Orbit with you right now?,Less than 15
+19/2/2016,16:13:11,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,16:13:22,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,16:13:42,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,16:13:58,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,16:14:14,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,16:15:10,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,16:15:26,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,16:15:35,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,16:15:47,Which football team will make the Olympic Stadium their new home in 2016?,Arsenal FC
+19/2/2016,16:15:57,How long do you think the new slide will be?,60 metres
+19/2/2016,16:16:10,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,16:16:23,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,16:16:36,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,16:16:53,How many Gold medals did Great Britain win at London 2012?,12
+19/2/2016,16:17:4,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,16:17:15,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,16:17:26,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,16:17:37,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
+19/2/2016,16:17:47,True or False: There are 2km of waterways in the Park?,False
+19/2/2016,16:17:58,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,False
+19/2/2016,16:18:12,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,16:18:32,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,16:18:40,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,16:18:53,True or False: Boats can travel along the Park waterways?,False
+19/2/2016,16:19:5,How would you describe the people on the Orbit with you right now?,Bored
+19/2/2016,16:19:17,Would you visit the ArcelorMittal Orbit again?,No
+19/2/2016,16:19:49,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,16:23:39,How would you describe the people on the Orbit with you right now?,Loud
+19/2/2016,16:23:53,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,16:24:8,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,16:26:40,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,16:26:56,How long do you think the new slide will be?,180 metres
+19/2/2016,16:27:9,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,16:27:19,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Copperbox Arena
+19/2/2016,16:27:43,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,16:27:55,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,16:28:12,Where was the first ever Paralympics held?,Stoke Mandeville
+19/2/2016,16:28:35,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,16:28:55,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,16:29:14,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,False
+19/2/2016,16:29:47,True or False: There are 2km of waterways in the Park?,True
+19/2/2016,16:31:59,True or False: The pixel wall, outside the Podium Cafe contains over 2000 handcrafted wooden cubes?,True
+19/2/2016,16:32:43,How would you describe the people on the Orbit with you right now?,Young
+19/2/2016,16:33:29,How many people do you think are on the visitor platform of the Orbit with you right now?,15 or more
+19/2/2016,16:34:27,True or False: There are solar panels that help to generate electricity on the Podium Cafe roof?,True
+19/2/2016,16:34:42,True or False: Boats can travel along the Park waterways?,True
+19/2/2016,16:39:2,How would you describe the people on the Orbit with you right now?,Interested
+19/2/2016,16:39:15,Would you visit the ArcelorMittal Orbit again?,Yes
+19/2/2016,16:39:35,How many steps do you think the ArcelorMittal Orbit has?,455
+19/2/2016,16:39:54,How would you describe the people on the Orbit with you right now?,Quiet
+19/2/2016,16:40:10,Approximately how far can you see from the ArcelorMittal Orbit?,20 miles
+19/2/2016,16:40:33,Do you think the air is cleaner up here than at ground level?,Yes
+19/2/2016,16:40:58,Which football team will make the Olympic Stadium their new home in 2016?,West Ham United
+19/2/2016,16:41:10,How long do you think the new slide will be?,180 metres
+19/2/2016,16:41:24,How would you describe the people on the Orbit with you right now?,Cheerful
+19/2/2016,16:41:44,Which of these is a sporting venue at Queen Elizabeth Olympic Park?,The Silversphere Arena
+19/2/2016,16:42:2,Which of these Olympic athletes trains at the London Aquatics Centre?,Tom Daley
+19/2/2016,16:42:15,How many Gold medals did Great Britain win at London 2012?,29
+19/2/2016,16:42:29,Where was the first ever Paralympics held?,Milton Keynes
+19/2/2016,16:42:45,Do you think the ArcelorMittal Orbit is higher that 100 metres?,Yes
+19/2/2016,16:43:1,True or False: There are large metal rings within the crowns of 10 trees to mark the entrances to the Park?,True
+19/2/2016,16:43:17,True of False: The metal rings around 10 trees in the Park are engraved with stories of the Park and its surroundings?,True
