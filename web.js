@@ -35,17 +35,34 @@ var collection ={
     title:String,               //Title of the collection
     author:String,              //Author
     category:[String],          //Categories = array of string names indicating category
-    questions:[String],         //Question IDs of the questions in the collectopm
+    questions:[String],         //Question IDs of the questions in the collection
     id:String                   //Identifier
 }
 
+var log ={
+    title:String,
+    author:String,
+    text:String,
+    timestamp:String,
+    id:String
+}
+
+var category = {
+    text:String,
+    id:String,
+}
+
+var logSchema = new Schema(log);
 var entitySchema = new Schema(entity);
 var collectionSchema= new Schema(collection);
+var categorySchema = new Schema(category);
 
 var Question = mongoose.model('questions', entitySchema);
 var Answer = mongoose.model('answers', entitySchema);
 var Reply = mongoose.model('replies', entitySchema);
 var Collection = mongoose.model('collections',collectionSchema);
+var Log = mongoose.model('log',logSchema);
+var Category = mongoose.model('categories',categorySchema);
 
 
 app.use(helmet());
@@ -71,6 +88,12 @@ db.on('error', console.error.bind(console, 'connection error:'));
  */
 db.on('open', function() {
     Print("Database","Connected to db");
+
+    var instance = new Category();
+    instance.text = 'category';
+    instance.id = "cat1";
+
+    instance.save();
 });
 
 /**
@@ -115,8 +138,6 @@ app.post('/:resource',function(req,res){
                res.send(DetailedHttpMmessage(httpMessages.notAllowed,"Object already exists, use PUT method to update object in database"));
            }
         });
-
-
     }
     else
     {
@@ -279,7 +300,7 @@ app.get('/:resource',function(req,res){
     else
     {
         res.send(httpMessages.notFound);
-        Print("Http Server","Returned 404 error.");
+        //Print("Http Server","Returned 404 error.");
     }
 });
 
